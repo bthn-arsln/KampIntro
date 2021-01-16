@@ -15,6 +15,7 @@ namespace Donguler
                 "Python"
             };
 
+
             for (int i = 0; i < kurslar.Length; i++)
             {
                 Console.WriteLine(kurslar[i]);
