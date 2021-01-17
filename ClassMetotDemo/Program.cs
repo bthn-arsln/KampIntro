@@ -6,7 +6,8 @@ namespace ClassMetotDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Adınız: ");
+            string ad = Console.ReadLine();
         }
     }
 }
